@@ -1,0 +1,9 @@
+#master { width: 960px; margin: 0px auto; }
+
+#header { height: 100px; background: #ccc; border: 1px solid #000; margin-bottom: 5px; }
+
+#menu { width: 150px; height: 1131px; background: #ccc; border: 1px solid #000; float: left; }
+
+#content { width: 781px; background: #ccc; border: 1px solid #000; float: left; margin-left: 5px; margin-bottom: 5px; padding-left: 10px; padding-right: 10px; }
+
+#footer { height: 50px; clear: both; background: #ccc; border: 1px solid #000; } /* I put a border onto this rule because... */
