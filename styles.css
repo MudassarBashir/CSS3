@@ -1,6 +1,8 @@
 /* Created by Geoff Blake in March of 2012 */
 
 @import url(layout.css);
+/* What does this line above do? It imports yet another style sheet, so with CSS style sheets, we can import one style sheet's style or
+definitions into another */
 
 /* Utility */
 
