@@ -22,6 +22,9 @@ a:active {  }
 
 border-radius: 10px;
 box-shadow: 3px 3px 5px #000;
+-webkit-box-shadow: 3px 3px 5px #000;
+-moz-box-shadow: 3px 3px 5px #000;
+/* The two lines above ensure that webkit browsers (like Chrome) as well as Mozilla browsers (Firefox) will apply the box shadow rule. */
 
 -moz-border-radius: 10px;
 -webkit-border-radius: 10px;
