@@ -21,9 +21,11 @@ a:active {  }
 .button { background: #ff9966; padding: 5px 10px; color: #fff; text-decoration: none; font-weight: bold; border-bottom: 2px solid #c07c00; border-right: 2px solid #c07c00; cursor: pointer; margin-left: 5px; font-size: 12pt; 
 
 border-radius: 10px;
+box-shadow: 3px 3px 5px #000;
 
 -moz-border-radius: 10px;
 -webkit-border-radius: 10px;
+
 
 }
 
